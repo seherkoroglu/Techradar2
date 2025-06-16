@@ -1,0 +1,18 @@
+services:
+  backend:
+    build: ./backend
+    container_name: techradar-backend
+    restart: always
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./backend:/app
+
+  my-project:
+    build: ./my-project
+    container_name: techradar-frontend
+    restart: always
+    ports:
+      - "3000:80"
+    depends_on:
+      - backend

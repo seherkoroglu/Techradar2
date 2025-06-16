@@ -1,0 +1,294 @@
+{"company":"Amazon","product_name":"Amazon.com","launch_year":1994.0,"status":"Active","description":"E-commerce platform","subfield":"E-commerce"}
+{"company":"Amazon","product_name":"Amazon Prime","launch_year":2005.0,"status":"Active","description":"Subscription service offering various benefits","subfield":"Subscription Services"}
+{"company":"Amazon","product_name":"Amazon Web Services (AWS)","launch_year":2006.0,"status":"Active","description":"Cloud computing platform","subfield":"Cloud Computing"}
+{"company":"Amazon","product_name":"Kindle","launch_year":2007.0,"status":"Active","description":"E-reader for electronic books","subfield":"Digital Media \/ Devices"}
+{"company":"Amazon","product_name":"Amazon Echo","launch_year":2014.0,"status":"Active","description":"Smart speaker with virtual assistant (Alexa)","subfield":"AI \/ Assistant"}
+{"company":"Amazon","product_name":"Amazon Fire TV","launch_year":2014.0,"status":"Active","description":"Streaming media player and smart TV platform","subfield":"Smart Devices"}
+{"company":"Amazon","product_name":"Amazon Fire Tablet","launch_year":2011.0,"status":"Active","description":"Tablet computer","subfield":"General Technology"}
+{"company":"Amazon","product_name":"Audible","launch_year":1995.0,"status":"Active","description":"Audiobook and spoken-word entertainment","subfield":"Media \/ Audio"}
+{"company":"Amazon","product_name":"Amazon Fresh","launch_year":2007.0,"status":"Active","description":"Grocery delivery and pickup service","subfield":"General Technology"}
+{"company":"Amazon","product_name":"Amazon Pantry","launch_year":2014.0,"status":"Active (Limited)","description":"Grocery and household items delivery","subfield":"General Technology"}
+{"company":"Amazon","product_name":"Amazon Music","launch_year":2007.0,"status":"Active","description":"Music streaming service","subfield":"General Technology"}
+{"company":"Amazon","product_name":"Amazon Prime Video","launch_year":2006.0,"status":"Active","description":"Video streaming service","subfield":"Media \/ Video"}
+{"company":"Amazon","product_name":"Amazon Studios","launch_year":2010.0,"status":"Active","description":"Film and television production","subfield":"General Technology"}
+{"company":"Amazon","product_name":"Whole Foods Market","launch_year":1980.0,"status":"Active","description":"Supermarket chain acquired by Amazon","subfield":"General Technology"}
+{"company":"Amazon","product_name":"Zappos","launch_year":1999.0,"status":"Active","description":"Online shoe and clothing retailer","subfield":"General Technology"}
+{"company":"Amazon","product_name":"Twitch","launch_year":2011.0,"status":"Active","description":"Live streaming platform for gamers","subfield":"General Technology"}
+{"company":"Amazon","product_name":"Ring","launch_year":2013.0,"status":"Active","description":"Smart home security products","subfield":"Smart Devices"}
+{"company":"Amazon","product_name":"PillPack","launch_year":2013.0,"status":"Active","description":"Online pharmacy","subfield":"General Technology"}
+{"company":"Amazon","product_name":"Goodreads","launch_year":2007.0,"status":"Active","description":"Social cataloging website for books","subfield":"Social Media"}
+{"company":"Amazon","product_name":"IMDb","launch_year":1990.0,"status":"Active","description":"Online database of information related to films, television programs, and video games","subfield":"Media \/ Video"}
+{"company":"Amazon","product_name":"Amazon Go","launch_year":2018.0,"status":"Active","description":"Cashier-less convenience stores","subfield":"General Technology"}
+{"company":"Amazon","product_name":"Amazon Air","launch_year":2016.0,"status":"Active","description":"Cargo airline for package delivery","subfield":"General Technology"}
+{"company":"Amazon","product_name":"Amazon Robotics","launch_year":2003.0,"status":"Active","description":"Automation technology for fulfillment centers","subfield":"General Technology"}
+{"company":"Amazon","product_name":"Amazon Fashion","launch_year":2002.0,"status":"Active","description":"Fashion retail platform","subfield":"General Technology"}
+{"company":"Amazon","product_name":"Amazon Pharmacy","launch_year":2020.0,"status":"Active","description":"Online prescription medication ordering and delivery","subfield":"General Technology"}
+{"company":"Amazon","product_name":"Amazon Sidewalk","launch_year":2019.0,"status":"Active","description":"Neighborhood network for smart devices","subfield":"Social Media"}
+{"company":"Amazon","product_name":"Amazon Luna","launch_year":2020.0,"status":"Active","description":"Cloud gaming service","subfield":"Cloud Computing"}
+{"company":"Amazon","product_name":"Amazon Pharmacy","launch_year":2020.0,"status":"Active","description":"Online prescription medication ordering and delivery","subfield":"General Technology"}
+{"company":"Amazon","product_name":"Amazon Business","launch_year":2015.0,"status":"Active","description":"B2B e-commerce platform","subfield":"E-commerce"}
+{"company":"Amazon","product_name":"Amazon Dash","launch_year":2014.0,"status":"Discontinued","description":"Branded buttons for quick reordering of products","subfield":"General Technology"}
+{"company":"Amazon","product_name":"Amazon Dash Wand","launch_year":2017.0,"status":"Discontinued","description":"Handheld barcode scanner and voice assistant","subfield":"AI \/ Assistant"}
+{"company":"Amazon","product_name":"Amazon Game Studios","launch_year":2012.0,"status":"Active","description":"Video game development and publishing","subfield":"Media \/ Video"}
+{"company":"Amazon","product_name":"Amazon Key","launch_year":2017.0,"status":"Active","description":"In-home and in-car package delivery","subfield":"General Technology"}
+{"company":"Amazon","product_name":"Amazon Music Unlimited","launch_year":2016.0,"status":"Active","description":"Premium music streaming service","subfield":"General Technology"}
+{"company":"Amazon","product_name":"Amazon Halo","launch_year":2020.0,"status":"Active","description":"Health and wellness tracking","subfield":"HealthTech"}
+{"company":"Amazon","product_name":"Amazon Pharmacy (acquired PillPack)","launch_year":2018.0,"status":"Active","description":"Online pharmacy and prescription delivery","subfield":"General Technology"}
+{"company":"Apple","product_name":"Macintosh","launch_year":1984.0,"status":"Active","description":"Personal computer","subfield":"General Technology"}
+{"company":"Apple","product_name":"iPhone","launch_year":2007.0,"status":"Active","description":"Smartphone","subfield":"Smart Devices"}
+{"company":"Apple","product_name":"iPad","launch_year":2010.0,"status":"Active","description":"Tablet computer","subfield":"General Technology"}
+{"company":"Apple","product_name":"MacBook Air","launch_year":2008.0,"status":"Active","description":"Lightweight laptop","subfield":"General Technology"}
+{"company":"Apple","product_name":"MacBook Pro","launch_year":2006.0,"status":"Active","description":"High-performance laptop","subfield":"General Technology"}
+{"company":"Apple","product_name":"iMac","launch_year":1998.0,"status":"Active","description":"All-in-one desktop computer","subfield":"General Technology"}
+{"company":"Apple","product_name":"Mac Pro","launch_year":2006.0,"status":"Active","description":"High-end desktop computer","subfield":"General Technology"}
+{"company":"Apple","product_name":"iPod","launch_year":2001.0,"status":"Discontinued","description":"Portable media player","subfield":"General Technology"}
+{"company":"Apple","product_name":"iTunes (discontinued)","launch_year":2001.0,"status":"Discontinued","description":"Media player, media library, and online store","subfield":"General Technology"}
+{"company":"Apple","product_name":"Apple Watch","launch_year":2015.0,"status":"Active","description":"Smartwatch with health and fitness features","subfield":"Smart Devices"}
+{"company":"Apple","product_name":"Apple TV","launch_year":2007.0,"status":"Active","description":"Digital media player and streaming device","subfield":"Smart Devices"}
+{"company":"Apple","product_name":"AirPods","launch_year":2016.0,"status":"Active","description":"Wireless earbuds","subfield":"General Technology"}
+{"company":"Apple","product_name":"HomePod","launch_year":2018.0,"status":"Discontinued","description":"Smart speaker with virtual assistant","subfield":"AI \/ Assistant"}
+{"company":"Apple","product_name":"Apple Music","launch_year":2015.0,"status":"Active","description":"Music streaming service","subfield":"General Technology"}
+{"company":"Apple","product_name":"Apple Pay","launch_year":2014.0,"status":"Active","description":"Mobile payment and digital wallet service","subfield":"FinTech"}
+{"company":"Apple","product_name":"Apple Card","launch_year":2019.0,"status":"Active","description":"Credit card issued by Apple","subfield":"General Technology"}
+{"company":"Apple","product_name":"macOS (formerly OS X)","launch_year":2001.0,"status":"Active","description":"Operating system for Mac computers","subfield":"General Technology"}
+{"company":"Apple","product_name":"iOS","launch_year":2007.0,"status":"Active","description":"Operating system for iPhone, iPad, and iPod Touch","subfield":"General Technology"}
+{"company":"Apple","product_name":"iPadOS","launch_year":2019.0,"status":"Active","description":"Operating system specifically for iPad","subfield":"General Technology"}
+{"company":"Apple","product_name":"watchOS","launch_year":2015.0,"status":"Active","description":"Operating system for Apple Watch","subfield":"General Technology"}
+{"company":"Apple","product_name":"tvOS","launch_year":2015.0,"status":"Active","description":"Operating system for Apple TV","subfield":"General Technology"}
+{"company":"Apple","product_name":"Safari","launch_year":2003.0,"status":"Active","description":"Web browser","subfield":"Web \/ Browser"}
+{"company":"Apple","product_name":"iWork","launch_year":2005.0,"status":"Active","description":"Productivity suite including Pages, Numbers, and Keynote","subfield":"Productivity \/ Collaboration"}
+{"company":"Apple","product_name":"iLife (discontinued)","launch_year":2003.0,"status":"Discontinued","description":"Suite of multimedia software (iPhoto, iMovie, GarageBand)","subfield":"General Technology"}
+{"company":"Apple","product_name":"Final Cut Pro","launch_year":1999.0,"status":"Active","description":"Video editing software","subfield":"Media \/ Video"}
+{"company":"Apple","product_name":"Logic Pro","launch_year":1990.0,"status":"Active","description":"Digital audio workstation","subfield":"Media \/ Audio"}
+{"company":"Apple","product_name":"GarageBand","launch_year":2004.0,"status":"Active","description":"Music creation software","subfield":"General Technology"}
+{"company":"Apple","product_name":"iCloud","launch_year":2011.0,"status":"Active","description":"Cloud storage and cloud computing service","subfield":"Cloud Computing"}
+{"company":"Apple","product_name":"App Store","launch_year":2008.0,"status":"Active","description":"Digital distribution platform for software on iOS","subfield":"General Technology"}
+{"company":"Apple","product_name":"Apple News","launch_year":2015.0,"status":"Active","description":"News aggregator and digital newsstand","subfield":"News \/ Media"}
+{"company":"Apple","product_name":"Apple Fitness+","launch_year":2020.0,"status":"Active","description":"Fitness service with guided workouts","subfield":"HealthTech"}
+{"company":"Apple","product_name":"Apple Arcade","launch_year":2019.0,"status":"Active","description":"Game subscription service","subfield":"Subscription Services"}
+{"company":"Apple","product_name":"Apple One","launch_year":2020.0,"status":"Active","description":"Bundle of Apple's subscription services","subfield":"Subscription Services"}
+{"company":"Apple","product_name":"Apple Silicon","launch_year":2020.0,"status":"Active","description":"Transition from Intel processors to Apple-designed processors for Macs","subfield":"General Technology"}
+{"company":"Apple","product_name":"AirTag","launch_year":2021.0,"status":"Active","description":"Item tracker using the Find My network","subfield":"Social Media"}
+{"company":"Apple","product_name":"Apple Podcasts","launch_year":2005.0,"status":"Active","description":"Podcast directory and streaming service","subfield":"Media \/ Audio"}
+{"company":"Apple","product_name":"MagSafe","launch_year":2006.0,"status":"Active","description":"Proprietary magnet-based charging technology","subfield":"General Technology"}
+{"company":"Baidu","product_name":"Baidu Search","launch_year":2000.0,"status":"Active","description":"Search engine","subfield":"Search Engine \/ AI"}
+{"company":"Baidu","product_name":"Baidu Maps","launch_year":2005.0,"status":"Active","description":"Mapping and navigation","subfield":"Mobility \/ Maps"}
+{"company":"Baidu","product_name":"Baidu Baike (Baidu Encyclopedia)","launch_year":2006.0,"status":"Active","description":"Chinese-language online encyclopedia","subfield":"AI \/ NLP"}
+{"company":"Baidu","product_name":"Baidu Cloud","launch_year":2012.0,"status":"Active","description":"Cloud storage and services","subfield":"Cloud Computing"}
+{"company":"Baidu","product_name":"Baidu Tieba","launch_year":2003.0,"status":"Active","description":"Online community and forum platform","subfield":"General Technology"}
+{"company":"Baidu","product_name":"Baidu Zhidao (Baidu Knows)","launch_year":2005.0,"status":"Active","description":"Question-and-answer platform","subfield":"General Technology"}
+{"company":"Baidu","product_name":"Baidu Pan (Baidu Cloud Drive)","launch_year":2012.0,"status":"Active","description":"Cloud storage service","subfield":"Cloud Computing"}
+{"company":"Baidu","product_name":"Baidu Wangpan (Baidu Netdisk)","launch_year":2012.0,"status":"Active","description":"File hosting and sharing service","subfield":"General Technology"}
+{"company":"Baidu","product_name":"Baidu Video","launch_year":2012.0,"status":"Active","description":"Video hosting and streaming service","subfield":"Media \/ Video"}
+{"company":"Baidu","product_name":"Baidu Image Search","launch_year":2011.0,"status":"Active","description":"Image search engine","subfield":"Search Engine \/ AI"}
+{"company":"Baidu","product_name":"Baidu News","launch_year":2005.0,"status":"Active","description":"News aggregator","subfield":"News \/ Media"}
+{"company":"Baidu","product_name":"Baidu Wenku (Baidu Library)","launch_year":2009.0,"status":"Active","description":"Online document sharing platform","subfield":"Productivity \/ Collaboration"}
+{"company":"Baidu","product_name":"Baidu Baijiahao","launch_year":2016.0,"status":"Active","description":"Content creation and publishing platform","subfield":"General Technology"}
+{"company":"Baidu","product_name":"Baidu Yun (Baidu Cloud)","launch_year":2013.0,"status":"Active","description":"Cloud computing and artificial intelligence services","subfield":"Cloud Computing"}
+{"company":"Baidu","product_name":"Baidu Mobile Assistant","launch_year":2010.0,"status":"Active","description":"Android app store","subfield":"AI \/ Assistant"}
+{"company":"Baidu","product_name":"Baidu Translate","launch_year":2014.0,"status":"Active","description":"Language translation service","subfield":"AI \/ NLP"}
+{"company":"Baidu","product_name":"Baidu Input Method","launch_year":2008.0,"status":"Active","description":"Chinese and English input method for mobile devices","subfield":"Smart Devices"}
+{"company":"Baidu","product_name":"Baidu Wallet","launch_year":2014.0,"status":"Active","description":"Mobile payment and financial services","subfield":"FinTech"}
+{"company":"Baidu","product_name":"Baidu Tieba (Mobile)","launch_year":2008.0,"status":"Active","description":"Mobile version of Baidu Tieba online community","subfield":"General Technology"}
+{"company":"Baidu","product_name":"Baidu Haokan","launch_year":2018.0,"status":"Active","description":"Short-form video platform","subfield":"Media \/ Video"}
+{"company":"Baidu","product_name":"Baidu DuerOS","launch_year":2015.0,"status":"Active","description":"Conversational AI platform","subfield":"General Technology"}
+{"company":"Baidu","product_name":"Apollo (Baidu Apollo)","launch_year":2017.0,"status":"Active","description":"Autonomous driving platform","subfield":"General Technology"}
+{"company":"Baidu","product_name":"Baidu Cloud Intelligent Speech","launch_year":2014.0,"status":"Active","description":"Speech recognition and synthesis technology","subfield":"Cloud Computing"}
+{"company":"Baidu","product_name":"Baidu Facial Recognition","launch_year":2015.0,"status":"Active","description":"Facial recognition technology","subfield":"General Technology"}
+{"company":"Baidu","product_name":"Baidu Cloud AI Open Platform","launch_year":2016.0,"status":"Active","description":"Artificial intelligence (AI) development platform","subfield":"Cloud Computing"}
+{"company":"Baidu","product_name":"Baidu Maps (International)","launch_year":2010.0,"status":"Active","description":"International version of Baidu Maps","subfield":"Mobility \/ Maps"}
+{"company":"Baidu","product_name":"Baidu Baike (International)","launch_year":2006.0,"status":"Active","description":"International version of Baidu Baike (Baidu Encyclopedia)","subfield":"General Technology"}
+{"company":"Baidu","product_name":"Baidu Wallet (International)","launch_year":2016.0,"status":"Active","description":"International version of Baidu Wallet","subfield":"FinTech"}
+{"company":"Baidu","product_name":"Baidu Music","launch_year":2011.0,"status":"Active","description":"Music streaming service","subfield":"General Technology"}
+{"company":"Baidu","product_name":"Baidu Knows (International)","launch_year":2005.0,"status":"Active","description":"International version of Baidu Zhidao (Baidu Knows)","subfield":"General Technology"}
+{"company":"Baidu","product_name":"Baidu Encyclopedia (International)","launch_year":2010.0,"status":"Active","description":"International version of Baidu Baike (Baidu Encyclopedia)","subfield":"General Technology"}
+{"company":"ByteDance","product_name":"Douyin (TikTok in international markets)","launch_year":2016.0,"status":"Active","description":"Short-form video platform","subfield":"Media \/ Video"}
+{"company":"ByteDance","product_name":"Toutiao (Today's Headlines)","launch_year":2012.0,"status":"Active","description":"News and information platform","subfield":"News \/ Media"}
+{"company":"ByteDance","product_name":"Xigua Video (TopBuzz Video)","launch_year":2016.0,"status":"Active","description":"Short-form video and news platform","subfield":"Media \/ Video"}
+{"company":"ByteDance","product_name":"Helo","launch_year":2018.0,"status":"Active","description":"Social media platform for global markets","subfield":"Social Media"}
+{"company":"ByteDance","product_name":"Vigo Video (Flipagram)","launch_year":2017.0,"status":"Merged with TikTok","description":"Short-form video platform","subfield":"Media \/ Video"}
+{"company":"ByteDance","product_name":"Jinri Toutiao (TouTiao)","launch_year":2012.0,"status":"Active","description":"News and content aggregator","subfield":"News \/ Media"}
+{"company":"ByteDance","product_name":"Douyin Huoshan","launch_year":2018.0,"status":"Active","description":"Short-form video app","subfield":"Media \/ Video"}
+{"company":"ByteDance","product_name":"Douyin Xigua","launch_year":2020.0,"status":"Active","description":"Short-form video app","subfield":"Media \/ Video"}
+{"company":"ByteDance","product_name":"Feishu (Lark in international markets)","launch_year":2018.0,"status":"Active","description":"Collaboration and productivity platform","subfield":"Productivity \/ Collaboration"}
+{"company":"ByteDance","product_name":"Douyin Pipixia","launch_year":2020.0,"status":"Active","description":"Short-form video app","subfield":"Media \/ Video"}
+{"company":"ByteDance","product_name":"Xigua Qutoutiao","launch_year":2015.0,"status":"Active","description":"News and content aggregator","subfield":"News \/ Media"}
+{"company":"ByteDance","product_name":"TopBuzz","launch_year":2015.0,"status":"Merged with TikTok","description":"Content discovery platform","subfield":"General Technology"}
+{"company":"ByteDance","product_name":"News Republic","launch_year":2008.0,"status":"Acquired by ByteDance in 2017","description":"News aggregator","subfield":"News \/ Media"}
+{"company":"ByteDance","product_name":"BaBe (Acquired by ByteDance)","launch_year":2016.0,"status":"Acquired","description":"Indonesian news aggregator","subfield":"News \/ Media"}
+{"company":"ByteDance","product_name":"Huoshan Video","launch_year":2017.0,"status":"Discontinued","description":"Short-form video app","subfield":"Media \/ Video"}
+{"company":"ByteDance","product_name":"Flipchat","launch_year":2017.0,"status":"Discontinued","description":"Video chat app","subfield":"Media \/ Video"}
+{"company":"ByteDance","product_name":"Hypstar (Vigo Video)","launch_year":2016.0,"status":"Merged with TikTok","description":"Short-form video app","subfield":"Media \/ Video"}
+{"company":"ByteDance","product_name":"Ulike","launch_year":2017.0,"status":"Active","description":"Beauty and makeup app","subfield":"General Technology"}
+{"company":"ByteDance","product_name":"CapCut (Viamaker)","launch_year":2018.0,"status":"Active","description":"Video editing app","subfield":"Media \/ Video"}
+{"company":"ByteDance","product_name":"Lark Meetings","launch_year":2019.0,"status":"Active","description":"Video conferencing and collaboration app","subfield":"Media \/ Video"}
+{"company":"ByteDance","product_name":"FaceU","launch_year":2016.0,"status":"Active","description":"Augmented reality (AR) photo and video app","subfield":"Media \/ Video"}
+{"company":"ByteDance","product_name":"Xigua Guoke","launch_year":2020.0,"status":"Active","description":"Knowledge-sharing platform","subfield":"General Technology"}
+{"company":"ByteDance","product_name":"Worktrans","launch_year":2018.0,"status":"Active","description":"HR and workplace management platform","subfield":"General Technology"}
+{"company":"ByteDance","product_name":"Volcano Engine","launch_year":2019.0,"status":"Active","description":"Real-time 3D rendering engine","subfield":"General Technology"}
+{"company":"ByteDance","product_name":"Watermelon Video","launch_year":2017.0,"status":"Active","description":"Short-form video app","subfield":"Media \/ Video"}
+{"company":"ByteDance","product_name":"BytePlus","launch_year":2019.0,"status":"Active","description":"AI-driven content recommendation platform","subfield":"General Technology"}
+{"company":"ByteDance","product_name":"Pipixia","launch_year":2016.0,"status":"Active","description":"News and content aggregator","subfield":"News \/ Media"}
+{"company":"Google","product_name":"Google Search","launch_year":1997.0,"status":"Active","description":"Web search engine","subfield":"Search Engine \/ AI"}
+{"company":"Google","product_name":"Gmail","launch_year":2004.0,"status":"Active","description":"Email service","subfield":"Communication"}
+{"company":"Google","product_name":"Google Maps","launch_year":2005.0,"status":"Active","description":"Mapping and navigation","subfield":"Mobility \/ Maps"}
+{"company":"Google","product_name":"YouTube","launch_year":2005.0,"status":"Active","description":"Video sharing platform","subfield":"Media \/ Video"}
+{"company":"Google","product_name":"Google Docs","launch_year":2006.0,"status":"Active","description":"Online document editing and collaboration","subfield":"Productivity \/ Collaboration"}
+{"company":"Google","product_name":"Google Calendar","launch_year":2006.0,"status":"Active","description":"Online calendar","subfield":"Productivity \/ Collaboration"}
+{"company":"Google","product_name":"Google Chrome","launch_year":2008.0,"status":"Active","description":"Web browser","subfield":"Web \/ Browser"}
+{"company":"Google","product_name":"Google Drive","launch_year":2012.0,"status":"Active","description":"Cloud storage and file synchronization","subfield":"Cloud Computing"}
+{"company":"Google","product_name":"Google+ (discontinued)","launch_year":2011.0,"status":"Discontinued","description":"Social networking service","subfield":"Social Media"}
+{"company":"Google","product_name":"Google Photos","launch_year":2015.0,"status":"Active","description":"Photo and video storage and sharing","subfield":"Media \/ Video"}
+{"company":"Google","product_name":"Google Assistant","launch_year":2016.0,"status":"Active","description":"Virtual assistant","subfield":"AI \/ Assistant"}
+{"company":"Google","product_name":"Google Home","launch_year":2016.0,"status":"Active","description":"Smart speaker","subfield":"Smart Devices"}
+{"company":"Google","product_name":"Google Pixel","launch_year":2016.0,"status":"Active","description":"Line of consumer electronic devices","subfield":"Smart Devices"}
+{"company":"Google","product_name":"Google Duo","launch_year":2016.0,"status":"Active","description":"Video chat app","subfield":"Media \/ Video"}
+{"company":"Google","product_name":"Google Allo (discontinued)","launch_year":2016.0,"status":"Discontinued","description":"Messaging app with virtual assistant","subfield":"Communication"}
+{"company":"Google","product_name":"Google Podcasts","launch_year":2018.0,"status":"Active","description":"Podcast player and app","subfield":"Media \/ Audio"}
+{"company":"Google","product_name":"Google Stadia","launch_year":2019.0,"status":"Active","description":"Cloud gaming service","subfield":"Cloud Computing"}
+{"company":"Google","product_name":"Google Meet","launch_year":2017.0,"status":"Active","description":"Video conferencing service","subfield":"Media \/ Video"}
+{"company":"Google","product_name":"Google Classroom","launch_year":2014.0,"status":"Active","description":"Online learning platform for schools","subfield":"EdTech"}
+{"company":"Google","product_name":"Google Earth","launch_year":2001.0,"status":"Active","description":"Virtual globe, map, and geographical information","subfield":"Mobility \/ Maps"}
+{"company":"Google","product_name":"Google Translate","launch_year":2006.0,"status":"Active","description":"Language translation service","subfield":"AI \/ NLP"}
+{"company":"Google","product_name":"Google Photos","launch_year":2015.0,"status":"Active","description":"Photo and video storage and sharing","subfield":"Media \/ Video"}
+{"company":"Google","product_name":"Google News","launch_year":2002.0,"status":"Active","description":"News aggregator","subfield":"News \/ Media"}
+{"company":"Google","product_name":"Google Fit","launch_year":2014.0,"status":"Active","description":"Health tracking platform","subfield":"HealthTech"}
+{"company":"Google","product_name":"Google Pay","launch_year":2011.0,"status":"Active","description":"Digital wallet and payment service","subfield":"FinTech"}
+{"company":"Google","product_name":"Google Trends","launch_year":2006.0,"status":"Active","description":"Search trends analysis","subfield":"Search Engine \/ AI"}
+{"company":"Google","product_name":"Google Analytics","launch_year":2005.0,"status":"Active","description":"Web analytics service","subfield":"Data Analytics"}
+{"company":"Google","product_name":"Google AdWords (rebranded as Google Ads)","launch_year":2000.0,"status":"Active","description":"Online advertising platform","subfield":"AdTech"}
+{"company":"Google","product_name":"Google Cloud Platform","launch_year":2008.0,"status":"Active","description":"Cloud computing services","subfield":"Cloud Computing"}
+{"company":"Google","product_name":"Google Nest","launch_year":2011.0,"status":"Active","description":"Smart home products","subfield":"Smart Devices"}
+{"company":"Google","product_name":"Google Workspace","launch_year":2006.0,"status":"Active","description":"Suite of cloud computing, productivity, and collaboration tools","subfield":"Productivity \/ Collaboration"}
+{"company":"Meta","product_name":"Facebook","launch_year":2004.0,"status":"Active","description":"Social networking platform","subfield":"Social Media"}
+{"company":"Meta","product_name":"Instagram","launch_year":2010.0,"status":"Active","description":"Photo and video sharing platform","subfield":"Media \/ Video"}
+{"company":"Meta","product_name":"WhatsApp","launch_year":2009.0,"status":"Active","description":"Messaging and voice over IP (VoIP) service","subfield":"Communication"}
+{"company":"Meta","product_name":"Oculus Rift","launch_year":2016.0,"status":"Active","description":"Virtual reality headset","subfield":"AdTech"}
+{"company":"Meta","product_name":"Oculus Quest","launch_year":2019.0,"status":"Active","description":"All-in-one virtual reality system","subfield":"General Technology"}
+{"company":"Meta","product_name":"Oculus Go","launch_year":2018.0,"status":"Discontinued","description":"Standalone virtual reality headset","subfield":"AdTech"}
+{"company":"Meta","product_name":"Portal","launch_year":2018.0,"status":"Active","description":"Smart display and video calling device","subfield":"Media \/ Video"}
+{"company":"Meta","product_name":"Workplace by Facebook","launch_year":2016.0,"status":"Active","description":"Enterprise collaboration platform","subfield":"General Technology"}
+{"company":"Meta","product_name":"Facebook Messenger","launch_year":2011.0,"status":"Active","description":"Instant messaging and video calling","subfield":"Communication"}
+{"company":"Meta","product_name":"Facebook Gaming","launch_year":2018.0,"status":"Active","description":"Gaming platform for live streaming","subfield":"General Technology"}
+{"company":"Meta","product_name":"Facebook Watch","launch_year":2017.0,"status":"Active","description":"Video-on-demand service","subfield":"Media \/ Video"}
+{"company":"Meta","product_name":"Novi (formerly Calibra)","launch_year":2019.0,"status":"Active","description":"Digital wallet for the Libra (Diem) cryptocurrency","subfield":"FinTech"}
+{"company":"Meta","product_name":"Facebook Horizon","launch_year":2020.0,"status":"Active (Beta)","description":"Social virtual reality (VR) world","subfield":"Social Media"}
+{"company":"Meta","product_name":"Spark AR Studio","launch_year":2015.0,"status":"Active","description":"Augmented reality (AR) creation platform","subfield":"General Technology"}
+{"company":"Meta","product_name":"Facebook Dating","launch_year":2019.0,"status":"Active","description":"Online dating service within the Facebook app","subfield":"General Technology"}
+{"company":"Meta","product_name":"Oculus Link","launch_year":2019.0,"status":"Active","description":"Software feature for connecting Oculus Quest to a PC for high-end VR experiences","subfield":"General Technology"}
+{"company":"Meta","product_name":"Instagram Reels","launch_year":2020.0,"status":"Active","description":"Short-form video content on Instagram","subfield":"Media \/ Video"}
+{"company":"Meta","product_name":"Facebook Shops","launch_year":2020.0,"status":"Active","description":"E-commerce platform integrated with Facebook and Instagram","subfield":"E-commerce"}
+{"company":"Meta","product_name":"Oculus Move","launch_year":2020.0,"status":"Active","description":"Fitness tracking for Oculus VR users","subfield":"HealthTech"}
+{"company":"Meta","product_name":"Facebook Horizon Workrooms","launch_year":2021.0,"status":"Active","description":"Virtual reality meeting and collaboration space","subfield":"General Technology"}
+{"company":"Meta","product_name":"Meta Quest","launch_year":2021.0,"status":"Active","description":"All-in-one virtual reality system (rebranded Oculus Quest)","subfield":"General Technology"}
+{"company":"Meta","product_name":"Facebook Meta","launch_year":2021.0,"status":"Active","description":"Parent company overseeing Facebook, Instagram, WhatsApp, and other products","subfield":"General Technology"}
+{"company":"Meta","product_name":"Meta Horizon Venues","launch_year":2019.0,"status":"Active","description":"Virtual reality spaces for events and gatherings","subfield":"General Technology"}
+{"company":"Meta","product_name":"Oculus Air Link","launch_year":2021.0,"status":"Active","description":"Wireless PC connection for Oculus Quest 2","subfield":"General Technology"}
+{"company":"Meta","product_name":"Meta Business Suite","launch_year":2021.0,"status":"Active","description":"Social media management tools for businesses","subfield":"Social Media"}
+{"company":"Meta","product_name":"Meta Quest 2","launch_year":2020.0,"status":"Active","description":"All-in-one virtual reality system (successor to Oculus Quest)","subfield":"General Technology"}
+{"company":"Meta","product_name":"Meta Quest Pro","launch_year":2022.0,"status":"Upcoming","description":"Upcoming professional-grade virtual reality headset","subfield":"AdTech"}
+{"company":"Microsoft","product_name":"Windows","launch_year":1985.0,"status":"Active","description":"Operating system for personal computers","subfield":"General Technology"}
+{"company":"Microsoft","product_name":"Microsoft Office","launch_year":1989.0,"status":"Active","description":"Productivity suite including Word, Excel, PowerPoint","subfield":"Productivity \/ Collaboration"}
+{"company":"Microsoft","product_name":"Azure","launch_year":2010.0,"status":"Active","description":"Cloud computing platform","subfield":"Cloud Computing"}
+{"company":"Microsoft","product_name":"Microsoft Edge","launch_year":2015.0,"status":"Active","description":"Web browser","subfield":"Web \/ Browser"}
+{"company":"Microsoft","product_name":"Microsoft Teams","launch_year":2017.0,"status":"Active","description":"Collaboration platform for chat, video, and file sharing","subfield":"Media \/ Video"}
+{"company":"Microsoft","product_name":"Microsoft 365","launch_year":2011.0,"status":"Active","description":"Cloud-based subscription service with Office apps","subfield":"Cloud Computing"}
+{"company":"Microsoft","product_name":"Xbox","launch_year":2001.0,"status":"Active","description":"Gaming console and gaming services","subfield":"General Technology"}
+{"company":"Microsoft","product_name":"Outlook","launch_year":2012.0,"status":"Active","description":"Email and personal information manager","subfield":"Communication"}
+{"company":"Microsoft","product_name":"OneDrive","launch_year":2007.0,"status":"Active","description":"Cloud storage service","subfield":"Cloud Computing"}
+{"company":"Microsoft","product_name":"Skype","launch_year":2003.0,"status":"Active","description":"Video and voice calling, instant messaging","subfield":"Communication"}
+{"company":"Microsoft","product_name":"Microsoft Dynamics","launch_year":2001.0,"status":"Active","description":"Enterprise resource planning (ERP) and customer relationship management (CRM)","subfield":"General Technology"}
+{"company":"Microsoft","product_name":"Visual Studio","launch_year":1997.0,"status":"Active","description":"Integrated development environment (IDE)","subfield":"General Technology"}
+{"company":"Microsoft","product_name":"SQL Server","launch_year":1989.0,"status":"Active","description":"Relational database management system (RDBMS)","subfield":"General Technology"}
+{"company":"Microsoft","product_name":"Power BI","launch_year":2013.0,"status":"Active","description":"Business analytics service","subfield":"Data Analytics"}
+{"company":"Microsoft","product_name":"Windows Server","launch_year":2003.0,"status":"Active","description":"Operating system for servers","subfield":"General Technology"}
+{"company":"Microsoft","product_name":"Microsoft Surface","launch_year":2012.0,"status":"Active","description":"Line of personal computing devices","subfield":"Smart Devices"}
+{"company":"Microsoft","product_name":"Microsoft Flight Simulator","launch_year":1982.0,"status":"Active","description":"Flight simulation software","subfield":"General Technology"}
+{"company":"Microsoft","product_name":"Microsoft Defender","launch_year":2006.0,"status":"Active","description":"Antivirus and antimalware software","subfield":"General Technology"}
+{"company":"Microsoft","product_name":"Visual Studio Code","launch_year":2015.0,"status":"Active","description":"Source-code editor","subfield":"General Technology"}
+{"company":"Microsoft","product_name":"Microsoft Access","launch_year":1992.0,"status":"Active","description":"Database management system (DBMS)","subfield":"General Technology"}
+{"company":"Microsoft","product_name":"Microsoft Visio","launch_year":1992.0,"status":"Active","description":"Diagramming and vector graphics application","subfield":"General Technology"}
+{"company":"Microsoft","product_name":"Microsoft SharePoint","launch_year":2001.0,"status":"Active","description":"Collaborative platform for document management and storage","subfield":"Productivity \/ Collaboration"}
+{"company":"Microsoft","product_name":"Microsoft Exchange Server","launch_year":1993.0,"status":"Active","description":"Email, calendaring, and contact management server","subfield":"Communication"}
+{"company":"Microsoft","product_name":"Microsoft Power Platform","launch_year":2019.0,"status":"Active","description":"Suite of applications, connectors, and a data platform for automating workflows","subfield":"General Technology"}
+{"company":"Microsoft","product_name":"Microsoft HoloLens","launch_year":2016.0,"status":"Active","description":"Augmented reality headset","subfield":"AdTech"}
+{"company":"Microsoft","product_name":"Microsoft To Do","launch_year":2017.0,"status":"Active","description":"Task management app","subfield":"General Technology"}
+{"company":"Microsoft","product_name":"Minecraft","launch_year":2011.0,"status":"Active","description":"Sandbox video game","subfield":"Media \/ Video"}
+{"company":"Microsoft","product_name":"LinkedIn","launch_year":2002.0,"status":"Active","description":"Professional networking platform","subfield":"Social Media"}
+{"company":"Microsoft","product_name":"Microsoft Edge (Chromium)","launch_year":2020.0,"status":"Active","description":"Web browser (Chromium-based version)","subfield":"Web \/ Browser"}
+{"company":"Microsoft","product_name":"Microsoft Power Automate","launch_year":2016.0,"status":"Active","description":"Workflow automation tool","subfield":"General Technology"}
+{"company":"Microsoft","product_name":"GitHub","launch_year":2008.0,"status":"Active","description":"Web-based hosting service for version control using Git","subfield":"General Technology"}
+{"company":"Tencent","product_name":"WeChat","launch_year":2011.0,"status":"Active","description":"Multi-purpose messaging, social media, and mobile payment app","subfield":"Communication"}
+{"company":"Tencent","product_name":"QQ","launch_year":1999.0,"status":"Active","description":"Instant messaging platform","subfield":"Communication"}
+{"company":"Tencent","product_name":"Tencent Cloud","launch_year":2010.0,"status":"Active","description":"Cloud computing services","subfield":"Cloud Computing"}
+{"company":"Tencent","product_name":"Tencent Video","launch_year":2011.0,"status":"Active","description":"Online video streaming platform","subfield":"Media \/ Video"}
+{"company":"Tencent","product_name":"Tencent Music","launch_year":2016.0,"status":"Active","description":"Online music streaming and music services","subfield":"General Technology"}
+{"company":"Tencent","product_name":"Tencent Gaming","launch_year":null,"status":"Active","description":"Various online and mobile games","subfield":"General Technology"}
+{"company":"Tencent","product_name":"Honor of Kings (Arena of Valor)","launch_year":2015.0,"status":"Active","description":"Multiplayer online battle arena (MOBA) game","subfield":"General Technology"}
+{"company":"Tencent","product_name":"PUBG Mobile","launch_year":2018.0,"status":"Active","description":"Battle Royale mobile game","subfield":"General Technology"}
+{"company":"Tencent","product_name":"WeGame","launch_year":2017.0,"status":"Active","description":"Digital distribution platform for PC and mobile games","subfield":"General Technology"}
+{"company":"Tencent","product_name":"Tencent Pictures","launch_year":2015.0,"status":"Active","description":"Film and television production and distribution","subfield":"General Technology"}
+{"company":"Tencent","product_name":"Tencent News","launch_year":2010.0,"status":"Active","description":"News aggregation and content platform","subfield":"News \/ Media"}
+{"company":"Tencent","product_name":"Tencent Sports","launch_year":2016.0,"status":"Active","description":"Sports content platform","subfield":"General Technology"}
+{"company":"Tencent","product_name":"Tencent Maps","launch_year":2011.0,"status":"Active","description":"Mapping and navigation","subfield":"Mobility \/ Maps"}
+{"company":"Tencent","product_name":"Tencent AI Lab","launch_year":2016.0,"status":"Active","description":"Artificial intelligence research and development","subfield":"Search Engine \/ AI"}
+{"company":"Tencent","product_name":"Tencent Keen Security Lab","launch_year":2016.0,"status":"Active","description":"Cybersecurity research and development","subfield":"Search Engine \/ AI"}
+{"company":"Tencent","product_name":"Tencent QQ Music","launch_year":2003.0,"status":"Active","description":"Online music streaming service","subfield":"General Technology"}
+{"company":"Tencent","product_name":"Tencent Penguin Pictures","launch_year":2014.0,"status":"Active","description":"Film and television production","subfield":"General Technology"}
+{"company":"Tencent","product_name":"Tencent Traveler","launch_year":2012.0,"status":"Active","description":"Web browser","subfield":"Web \/ Browser"}
+{"company":"Tencent","product_name":"Tencent Video (International)","launch_year":2015.0,"status":"Active","description":"International version of Tencent Video","subfield":"Media \/ Video"}
+{"company":"Tencent","product_name":"Tencent Weibo","launch_year":2010.0,"status":"Active","description":"Microblogging service","subfield":"General Technology"}
+{"company":"Tencent","product_name":"Tencent Class","launch_year":2020.0,"status":"Active","description":"Online education platform","subfield":"EdTech"}
+{"company":"Tencent","product_name":"Tencent Meeting","launch_year":2018.0,"status":"Active","description":"Video conferencing platform","subfield":"Media \/ Video"}
+{"company":"Tencent","product_name":"Tencent Keen","launch_year":2020.0,"status":"Active","description":"Content discovery and curation platform","subfield":"General Technology"}
+{"company":"Tencent","product_name":"Tencent Docs","launch_year":2018.0,"status":"Active","description":"Online document collaboration","subfield":"Productivity \/ Collaboration"}
+{"company":"Tencent","product_name":"Tencent Open Platform","launch_year":2013.0,"status":"Active","description":"Developer platform for third-party integrations","subfield":"General Technology"}
+{"company":"Tencent","product_name":"Tencent Trusted Doctors","launch_year":2014.0,"status":"Active","description":"Online healthcare platform","subfield":"HealthTech"}
+{"company":"Tencent","product_name":"Tencent Myapp","launch_year":2012.0,"status":"Active","description":"Mobile app store","subfield":"General Technology"}
+{"company":"Tencent","product_name":"Tencent Weiyun","launch_year":2012.0,"status":"Active","description":"Cloud storage service","subfield":"Cloud Computing"}
+{"company":"Tencent","product_name":"QQ Mail","launch_year":1997.0,"status":"Active","description":"Email service","subfield":"Communication"}
+{"company":"Tencent","product_name":"Tencent QQ Browser","launch_year":2008.0,"status":"Active","description":"Web browser","subfield":"Web \/ Browser"}
+{"company":"Tencent","product_name":"Tencent Mimi","launch_year":2020.0,"status":"Active","description":"Short-form video platform","subfield":"Media \/ Video"}
+{"company":"Tencent","product_name":"Tencent Mina","launch_year":2020.0,"status":"Active","description":"Social networking app","subfield":"Social Media"}
+{"company":"Tencent","product_name":"Tencent Pitu","launch_year":2014.0,"status":"Active","description":"Photo editing and sharing app","subfield":"General Technology"}
+{"company":"Tencent","product_name":"Tencent VooV","launch_year":2018.0,"status":"Active","description":"Video conferencing and communication platform","subfield":"Media \/ Video"}
+{"company":"Yandex","product_name":"Yandex Search","launch_year":1997.0,"status":"Active","description":"Search engine","subfield":"Search Engine \/ AI"}
+{"company":"Yandex","product_name":"Yandex.Mail","launch_year":2001.0,"status":"Active","description":"Email service","subfield":"Communication"}
+{"company":"Yandex","product_name":"Yandex.Maps","launch_year":2004.0,"status":"Active","description":"Mapping and navigation","subfield":"Mobility \/ Maps"}
+{"company":"Yandex","product_name":"Yandex.Translate","launch_year":2010.0,"status":"Active","description":"Language translation service","subfield":"AI \/ NLP"}
+{"company":"Yandex","product_name":"Yandex.Disk","launch_year":2012.0,"status":"Active","description":"Cloud storage service","subfield":"Cloud Computing"}
+{"company":"Yandex","product_name":"Yandex.Taxi","launch_year":2011.0,"status":"Active","description":"Ride-hailing and food delivery service","subfield":"General Technology"}
+{"company":"Yandex","product_name":"Yandex.Navigator","launch_year":2012.0,"status":"Active","description":"Navigation app","subfield":"Mobility \/ Maps"}
+{"company":"Yandex","product_name":"Yandex.Music","launch_year":2010.0,"status":"Active","description":"Music streaming service","subfield":"General Technology"}
+{"company":"Yandex","product_name":"Yandex.Images","launch_year":2000.0,"status":"Active","description":"Image search engine","subfield":"Search Engine \/ AI"}
+{"company":"Yandex","product_name":"Yandex.Video","launch_year":2008.0,"status":"Active","description":"Video hosting and streaming service","subfield":"Media \/ Video"}
+{"company":"Yandex","product_name":"Yandex.News","launch_year":2000.0,"status":"Active","description":"News aggregator","subfield":"News \/ Media"}
+{"company":"Yandex","product_name":"Yandex.Translate","launch_year":2010.0,"status":"Active","description":"Language translation service","subfield":"AI \/ NLP"}
+{"company":"Yandex","product_name":"Yandex.Drive","launch_year":2011.0,"status":"Active","description":"Cloud storage and file synchronization","subfield":"Cloud Computing"}
+{"company":"Yandex","product_name":"Yandex.Toloka","launch_year":2015.0,"status":"Active","description":"Crowdsourcing platform for tasks","subfield":"General Technology"}
+{"company":"Yandex","product_name":"Yandex.Direct","launch_year":2001.0,"status":"Active","description":"Online advertising platform","subfield":"AdTech"}
+{"company":"Yandex","product_name":"Yandex.Market","launch_year":2000.0,"status":"Active","description":"Online marketplace and price comparison platform","subfield":"General Technology"}
+{"company":"Yandex","product_name":"Yandex.Metro","launch_year":2007.0,"status":"Active","description":"Moscow Metro navigation app","subfield":"Mobility \/ Maps"}
+{"company":"Yandex","product_name":"Yandex.Weather","launch_year":2010.0,"status":"Active","description":"Weather information service","subfield":"General Technology"}
+{"company":"Yandex","product_name":"Yandex.Calendar","launch_year":2011.0,"status":"Active","description":"Online calendar service","subfield":"Productivity \/ Collaboration"}
+{"company":"Yandex","product_name":"Yandex.Translate","launch_year":2010.0,"status":"Active","description":"Language translation service","subfield":"AI \/ NLP"}
+{"company":"Yandex","product_name":"Yandex.Navigator","launch_year":2012.0,"status":"Active","description":"Navigation app","subfield":"Mobility \/ Maps"}
+{"company":"Yandex","product_name":"Yandex.Turbo","launch_year":2009.0,"status":"Active","description":"Web page acceleration service","subfield":"General Technology"}
+{"company":"Yandex","product_name":"Yandex.DNS","launch_year":2011.0,"status":"Active","description":"Domain Name System (DNS) service","subfield":"General Technology"}
+{"company":"Yandex","product_name":"Yandex.Money","launch_year":2002.0,"status":"Active","description":"Online payment and electronic money service","subfield":"FinTech"}
+{"company":"Yandex","product_name":"Yandex.Tank","launch_year":2010.0,"status":"Active","description":"Load testing tool for web applications","subfield":"General Technology"}
+{"company":"Yandex","product_name":"Yandex.Lavka","launch_year":2020.0,"status":"Active","description":"Online grocery delivery service","subfield":"General Technology"}
+{"company":"Yandex","product_name":"Yandex.Telemost","launch_year":2020.0,"status":"Active","description":"Video conferencing platform","subfield":"Media \/ Video"}
+{"company":"Yandex","product_name":"Yandex.Disk (for Business)","launch_year":2012.0,"status":"Active","description":"Cloud storage and collaboration for businesses","subfield":"Cloud Computing"}
+{"company":"Yandex","product_name":"Yandex.Cloud","launch_year":2018.0,"status":"Active","description":"Cloud computing platform","subfield":"Cloud Computing"}
+{"company":"Yandex","product_name":"Yandex.Station","launch_year":2018.0,"status":"Active","description":"Smart speaker with voice assistant (Alice)","subfield":"AI \/ Assistant"}
+{"company":"Yandex","product_name":"Yandex.Taximeter","launch_year":2011.0,"status":"Active","description":"Mobile app for taxi drivers","subfield":"General Technology"}
+{"company":"Yandex","product_name":"Yandex.Maps (for Business)","launch_year":2008.0,"status":"Active","description":"Mapping and navigation for businesses","subfield":"Mobility \/ Maps"}
+{"company":"Yandex","product_name":"Yandex Browser","launch_year":2012.0,"status":"Active","description":"Web browser with security features","subfield":"Web \/ Browser"}
+{"company":"Yandex","product_name":"Yandex.Metrica","launch_year":2008.0,"status":"Active","description":"Web analytics service","subfield":"Data Analytics"}
+{"company":"Yandex","product_name":"Yandex Launcher","launch_year":2015.0,"status":"Active","description":"Android launcher","subfield":"General Technology"}
+{"company":"Yandex","product_name":"Yandex.Zen","launch_year":2015.0,"status":"Active","description":"Content recommendation platform","subfield":"General Technology"}
+{"company":"Yandex","product_name":"Yandex.Eats","launch_year":2017.0,"status":"Active","description":"Food delivery service","subfield":"General Technology"}
+{"company":"Yandex","product_name":"Yandex.Fuel","launch_year":2014.0,"status":"Active","description":"Fuel price comparison app","subfield":"General Technology"}
+{"company":"Yandex","product_name":"Yandex.Mobilizatsiya","launch_year":2015.0,"status":"Active","description":"Fleet management and optimization","subfield":"General Technology"}
+{"company":"Yandex","product_name":"Yandex.Taxofon","launch_year":2019.0,"status":"Active","description":"Mobile app for business taxi","subfield":"General Technology"}

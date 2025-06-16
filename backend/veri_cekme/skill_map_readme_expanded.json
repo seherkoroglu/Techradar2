@@ -1,0 +1,767 @@
+[
+  {
+    "subfield": "Yapay Zeka",
+    "skills": [
+      {
+        "name": "c",
+        "frequency": 5119
+      },
+      {
+        "name": "C",
+        "frequency": 936
+      },
+      {
+        "name": "ai",
+        "frequency": 563
+      },
+      {
+        "name": "llm",
+        "frequency": 115
+      },
+      {
+        "name": "bi",
+        "frequency": 91
+      },
+      {
+        "name": "python",
+        "frequency": 90
+      },
+      {
+        "name": "LLM",
+        "frequency": 88
+      },
+      {
+        "name": "go",
+        "frequency": 85
+      },
+      {
+        "name": "OpenAI",
+        "frequency": 59
+      },
+      {
+        "name": "AI",
+        "frequency": 58
+      },
+      {
+        "name": "Python",
+        "frequency": 53
+      },
+      {
+        "name": "openai",
+        "frequency": 49
+      },
+      {
+        "name": "jira",
+        "frequency": 40
+      },
+      {
+        "name": "ml",
+        "frequency": 37
+      },
+      {
+        "name": "docker",
+        "frequency": 27
+      },
+      {
+        "name": "JIRA",
+        "frequency": 26
+      },
+      {
+        "name": "Go",
+        "frequency": 22
+      },
+      {
+        "name": "huggingface",
+        "frequency": 14
+      },
+      {
+        "name": "Jira",
+        "frequency": 14
+      },
+      {
+        "name": "defi",
+        "frequency": 13
+      }
+    ]
+  },
+  {
+    "subfield": "Siber Güvenlik",
+    "skills": [
+      {
+        "name": "c",
+        "frequency": 9183
+      },
+      {
+        "name": "C",
+        "frequency": 1124
+      },
+      {
+        "name": "go",
+        "frequency": 618
+      },
+      {
+        "name": "ai",
+        "frequency": 547
+      },
+      {
+        "name": "bi",
+        "frequency": 190
+      },
+      {
+        "name": "ml",
+        "frequency": 138
+      },
+      {
+        "name": "AI",
+        "frequency": 123
+      },
+      {
+        "name": "Go",
+        "frequency": 98
+      },
+      {
+        "name": "docker",
+        "frequency": 71
+      },
+      {
+        "name": "Docker",
+        "frequency": 67
+      },
+      {
+        "name": "unity",
+        "frequency": 37
+      },
+      {
+        "name": "GO",
+        "frequency": 32
+      },
+      {
+        "name": "html",
+        "frequency": 26
+      },
+      {
+        "name": "OpenAI",
+        "frequency": 23
+      },
+      {
+        "name": "LLM",
+        "frequency": 21
+      },
+      {
+        "name": "openai",
+        "frequency": 20
+      },
+      {
+        "name": "express",
+        "frequency": 19
+      },
+      {
+        "name": "Unity",
+        "frequency": 18
+      },
+      {
+        "name": "Bi",
+        "frequency": 15
+      },
+      {
+        "name": "Ai",
+        "frequency": 14
+      }
+    ]
+  },
+  {
+    "subfield": "Web Geliştirme",
+    "skills": [
+      {
+        "name": "c",
+        "frequency": 13963
+      },
+      {
+        "name": "C",
+        "frequency": 1657
+      },
+      {
+        "name": "ai",
+        "frequency": 757
+      },
+      {
+        "name": "bi",
+        "frequency": 354
+      },
+      {
+        "name": "go",
+        "frequency": 324
+      },
+      {
+        "name": "AI",
+        "frequency": 136
+      },
+      {
+        "name": "Go",
+        "frequency": 82
+      },
+      {
+        "name": "Bi",
+        "frequency": 58
+      },
+      {
+        "name": "LLM",
+        "frequency": 49
+      },
+      {
+        "name": "ChatGPT",
+        "frequency": 39
+      },
+      {
+        "name": "docker",
+        "frequency": 38
+      },
+      {
+        "name": "ml",
+        "frequency": 37
+      },
+      {
+        "name": "unity",
+        "frequency": 30
+      },
+      {
+        "name": "Ai",
+        "frequency": 28
+      },
+      {
+        "name": "react",
+        "frequency": 28
+      },
+      {
+        "name": "Docker",
+        "frequency": 26
+      },
+      {
+        "name": "Python",
+        "frequency": 21
+      },
+      {
+        "name": "ios",
+        "frequency": 21
+      },
+      {
+        "name": "express",
+        "frequency": 17
+      },
+      {
+        "name": "React",
+        "frequency": 16
+      }
+    ]
+  },
+  {
+    "subfield": "Mobil Uygulama",
+    "skills": [
+      {
+        "name": "c",
+        "frequency": 5540
+      },
+      {
+        "name": "C",
+        "frequency": 575
+      },
+      {
+        "name": "flutter",
+        "frequency": 449
+      },
+      {
+        "name": "Flutter",
+        "frequency": 281
+      },
+      {
+        "name": "ai",
+        "frequency": 257
+      },
+      {
+        "name": "go",
+        "frequency": 172
+      },
+      {
+        "name": "bi",
+        "frequency": 112
+      },
+      {
+        "name": "Android",
+        "frequency": 92
+      },
+      {
+        "name": "Go",
+        "frequency": 63
+      },
+      {
+        "name": "iOS",
+        "frequency": 59
+      },
+      {
+        "name": "dart",
+        "frequency": 59
+      },
+      {
+        "name": "unity",
+        "frequency": 45
+      },
+      {
+        "name": "Dart",
+        "frequency": 36
+      },
+      {
+        "name": "Firebase",
+        "frequency": 30
+      },
+      {
+        "name": "android",
+        "frequency": 27
+      },
+      {
+        "name": "ml",
+        "frequency": 19
+      },
+      {
+        "name": "Bi",
+        "frequency": 19
+      },
+      {
+        "name": "firebase",
+        "frequency": 10
+      },
+      {
+        "name": "AI",
+        "frequency": 9
+      },
+      {
+        "name": "react",
+        "frequency": 9
+      }
+    ]
+  },
+  {
+    "subfield": "Veri Bilimi",
+    "skills": [
+      {
+        "name": "c",
+        "frequency": 7799
+      },
+      {
+        "name": "C",
+        "frequency": 716
+      },
+      {
+        "name": "ai",
+        "frequency": 703
+      },
+      {
+        "name": "go",
+        "frequency": 327
+      },
+      {
+        "name": "Python",
+        "frequency": 268
+      },
+      {
+        "name": "AI",
+        "frequency": 215
+      },
+      {
+        "name": "superset",
+        "frequency": 104
+      },
+      {
+        "name": "bi",
+        "frequency": 92
+      },
+      {
+        "name": "python",
+        "frequency": 72
+      },
+      {
+        "name": "html",
+        "frequency": 58
+      },
+      {
+        "name": "Go",
+        "frequency": 48
+      },
+      {
+        "name": "ml",
+        "frequency": 42
+      },
+      {
+        "name": "PyTorch",
+        "frequency": 41
+      },
+      {
+        "name": "ML",
+        "frequency": 37
+      },
+      {
+        "name": "Superset",
+        "frequency": 35
+      },
+      {
+        "name": "pandas",
+        "frequency": 34
+      },
+      {
+        "name": "unity",
+        "frequency": 34
+      },
+      {
+        "name": "NLP",
+        "frequency": 28
+      },
+      {
+        "name": "TensorFlow",
+        "frequency": 28
+      },
+      {
+        "name": "LangChain",
+        "frequency": 25
+      }
+    ]
+  },
+  {
+    "subfield": "Blockchain",
+    "skills": [
+      {
+        "name": "c",
+        "frequency": 3476
+      },
+      {
+        "name": "C",
+        "frequency": 490
+      },
+      {
+        "name": "ai",
+        "frequency": 195
+      },
+      {
+        "name": "bi",
+        "frequency": 76
+      },
+      {
+        "name": "go",
+        "frequency": 65
+      },
+      {
+        "name": "solidity",
+        "frequency": 54
+      },
+      {
+        "name": "ether",
+        "frequency": 37
+      },
+      {
+        "name": "defi",
+        "frequency": 28
+      },
+      {
+        "name": "Solidity",
+        "frequency": 24
+      },
+      {
+        "name": "Ether",
+        "frequency": 21
+      },
+      {
+        "name": "ml",
+        "frequency": 19
+      },
+      {
+        "name": "smart contracts",
+        "frequency": 15
+      },
+      {
+        "name": "blockchain",
+        "frequency": 15
+      },
+      {
+        "name": "Bi",
+        "frequency": 13
+      },
+      {
+        "name": "unity",
+        "frequency": 12
+      },
+      {
+        "name": "web3",
+        "frequency": 12
+      },
+      {
+        "name": "NFT",
+        "frequency": 11
+      },
+      {
+        "name": "nft",
+        "frequency": 9
+      },
+      {
+        "name": "Go",
+        "frequency": 8
+      },
+      {
+        "name": "Defi",
+        "frequency": 7
+      }
+    ]
+  },
+  {
+    "subfield": "IoT",
+    "skills": [
+      {
+        "name": "c",
+        "frequency": 3607
+      },
+      {
+        "name": "C",
+        "frequency": 508
+      },
+      {
+        "name": "redis",
+        "frequency": 185
+      },
+      {
+        "name": "bi",
+        "frequency": 175
+      },
+      {
+        "name": "Redis",
+        "frequency": 164
+      },
+      {
+        "name": "ai",
+        "frequency": 154
+      },
+      {
+        "name": "html",
+        "frequency": 67
+      },
+      {
+        "name": "go",
+        "frequency": 46
+      },
+      {
+        "name": "python",
+        "frequency": 26
+      },
+      {
+        "name": "C++",
+        "frequency": 20
+      },
+      {
+        "name": "unity",
+        "frequency": 16
+      },
+      {
+        "name": "AI",
+        "frequency": 15
+      },
+      {
+        "name": "Android",
+        "frequency": 14
+      },
+      {
+        "name": "ml",
+        "frequency": 13
+      },
+      {
+        "name": "defi",
+        "frequency": 12
+      },
+      {
+        "name": "Go",
+        "frequency": 9
+      },
+      {
+        "name": "Python",
+        "frequency": 8
+      },
+      {
+        "name": "Bi",
+        "frequency": 8
+      },
+      {
+        "name": "Docker",
+        "frequency": 6
+      },
+      {
+        "name": "php",
+        "frequency": 6
+      }
+    ]
+  },
+  {
+    "subfield": "Oyun Geliştirme",
+    "skills": [
+      {
+        "name": "c",
+        "frequency": 16656
+      },
+      {
+        "name": "C",
+        "frequency": 2933
+      },
+      {
+        "name": "ai",
+        "frequency": 1358
+      },
+      {
+        "name": "go",
+        "frequency": 216
+      },
+      {
+        "name": "bi",
+        "frequency": 163
+      },
+      {
+        "name": "csharp",
+        "frequency": 93
+      },
+      {
+        "name": "Unity",
+        "frequency": 89
+      },
+      {
+        "name": "ml",
+        "frequency": 76
+      },
+      {
+        "name": "unity",
+        "frequency": 75
+      },
+      {
+        "name": "dotnet",
+        "frequency": 55
+      },
+      {
+        "name": "Bi",
+        "frequency": 53
+      },
+      {
+        "name": "defi",
+        "frequency": 35
+      },
+      {
+        "name": "html",
+        "frequency": 31
+      },
+      {
+        "name": "ML",
+        "frequency": 27
+      },
+      {
+        "name": "firewall",
+        "frequency": 23
+      },
+      {
+        "name": "ether",
+        "frequency": 21
+      },
+      {
+        "name": "Go",
+        "frequency": 21
+      },
+      {
+        "name": "docker",
+        "frequency": 20
+      },
+      {
+        "name": "OpenAI",
+        "frequency": 19
+      },
+      {
+        "name": "Docker",
+        "frequency": 16
+      }
+    ]
+  },
+  {
+    "subfield": "Diğer",
+    "skills": [
+      {
+        "name": "c",
+        "frequency": 4334
+      },
+      {
+        "name": "C",
+        "frequency": 810
+      },
+      {
+        "name": "ai",
+        "frequency": 372
+      },
+      {
+        "name": "go",
+        "frequency": 112
+      },
+      {
+        "name": "bi",
+        "frequency": 84
+      },
+      {
+        "name": "LLM",
+        "frequency": 69
+      },
+      {
+        "name": "AI",
+        "frequency": 61
+      },
+      {
+        "name": "OpenAI",
+        "frequency": 54
+      },
+      {
+        "name": "python",
+        "frequency": 46
+      },
+      {
+        "name": "Python",
+        "frequency": 43
+      },
+      {
+        "name": "ml",
+        "frequency": 36
+      },
+      {
+        "name": "openai",
+        "frequency": 36
+      },
+      {
+        "name": "Go",
+        "frequency": 29
+      },
+      {
+        "name": "llm",
+        "frequency": 25
+      },
+      {
+        "name": "Docker",
+        "frequency": 17
+      },
+      {
+        "name": "docker",
+        "frequency": 17
+      },
+      {
+        "name": "unity",
+        "frequency": 16
+      },
+      {
+        "name": "GO",
+        "frequency": 13
+      },
+      {
+        "name": "defi",
+        "frequency": 9
+      },
+      {
+        "name": "php",
+        "frequency": 8
+      }
+    ]
+  }
+]
