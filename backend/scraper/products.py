@@ -5,8 +5,8 @@ import os
 router = APIRouter()
 
 # Ortam değişkenlerinden ya da doğrudan URI ve DB bilgisi
-MONGO_URI = os.getenv("MONGO_URI") or "mongodb+srv://seherkor2013:vG2JQzQnh8DiMt2m@techradar.eo6czzu.mongodb.net/?retryWrites=false"
-DB_NAME = os.getenv("DB_NAME") or "techradar"
+MONGO_URI = os.getenv("MONGO_URI")
+DB_NAME = os.getenv("DB_NAME")
 
 client = MongoClient(MONGO_URI)
 db = client[DB_NAME]

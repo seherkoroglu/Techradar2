@@ -1,18 +1,23 @@
+version: '3'
+
 services:
   backend:
     build: ./backend
-    container_name: techradar-backend
-    restart: always
+    env_file:
+      - ./backend/.env
     ports:
       - "8000:8000"
+    networks:
+      - app-network
     volumes:
       - ./backend:/app
 
-  my-project:
+  frontend:
     build: ./my-project
-    container_name: techradar-frontend
-    restart: always
     ports:
       - "3000:80"
-    depends_on:
-      - backend
+    networks:
+      - app-network
+
+networks:
+  app-network:
