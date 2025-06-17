@@ -1,24 +1,19 @@
-from pymongo import MongoClient
+import os
 from dotenv import load_dotenv
-import os
-from pathlib import Path
+from pymongo import MongoClient
 
-env_path = Path(__file__).resolve().parent.parent / ".env"
-load_dotenv(dotenv_path=env_path)
-import os
+# .env dosyasını yükle
+load_dotenv()
 
-# Yüklenmediyse manuel ver
-if os.getenv("SECRET_KEY") is None:
-    os.environ["SECRET_KEY"] = "supersecretkey"
-
-print(f"ENV PATH: {env_path.exists()} → {env_path}")
-
-
+# Ortam değişkenlerini al
 MONGO_URI = os.getenv("MONGO_URI")
-DB_NAME = os.getenv("DB_NAME")
+DB_NAME = os.getenv("DB_NAME", "techradar")  # Eğer yoksa default olarak techradar
+SECRET_KEY = os.getenv("SECRET_KEY", "supersecretkey")  # Yine fallback'li
 
+# Mongo bağlantısı
 client = MongoClient(MONGO_URI)
 db = client[DB_NAME]
 
+# Koleksiyonlar
 users_collection = db["users"]
 articles = db["articles"]

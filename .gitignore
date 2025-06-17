@@ -1,4 +1,8 @@
 .env
-.env.*
-/backend/.env
-/my-project/.env.production
+*.env
+*.pem
+**/__pycache__/
+**/.venv/
+node_modules/
+**/.env
+backend/.env

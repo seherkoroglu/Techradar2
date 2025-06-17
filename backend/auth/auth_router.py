@@ -8,7 +8,15 @@ from typing import List  # bu mutlaka en üstte olmalı
 import os
 
 
-SECRET_KEY = os.getenv("SECRET_KEY")  # ✅ .env'den al
+import os
+from dotenv import load_dotenv
+from fastapi import APIRouter
+
+load_dotenv()
+
+SECRET_KEY = os.getenv("SECRET_KEY")  # from .env
+
+router = APIRouter()
 ALGORITHM = "HS256"
 
 oauth2_scheme = OAuth2PasswordBearer(tokenUrl="auth/login")
