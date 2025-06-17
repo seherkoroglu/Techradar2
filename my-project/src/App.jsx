@@ -57,7 +57,6 @@ useEffect(() => {
               <Route path="/pazar-trendleri" element={<PazarTrendleri />} />
               <Route path="/urun-fikirleri" element={<ProductIdeas />} />
                             <Route path="/yatirim-radar" element={<YatirimRadar />} />
-              <Route path="/yatirim-radar" element={<YatirimRadar />} />
                                           <Route path="/tech-migrations" element={<TechMigrations />} />
               <Route path="/products" element={<ProductList />} />
 <Route path="/sirket-hisse" element={<TahminSayfasi />} />
