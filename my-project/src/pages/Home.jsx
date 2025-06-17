@@ -271,68 +271,71 @@ const steps = [
 
 
   {/* İstatistikler */}
-  <div className="py-20 text-center">
-    <h2 className="text-4xl font-bold text-white mb-10 font-space">Güçlü Rakamlarla</h2>
-    <div className="flex justify-center gap-20">
-      {[
-        {number: '1200+', label: 'Analiz Üretildi'},
-        {number: '800+', label: 'Şirket Kullandı'},
-        {number: '20+', label: 'Teknoloji Alanı'}
-      ].map((stat, idx) => (
-          <motion.div
-              key={idx}
-              className="flex flex-col items-center"
-              initial={{opacity: 0, y: 30}}
-              whileInView={{opacity: 1, y: 0}}
-              viewport={{once: true}}
-              transition={{duration: 0.6, delay: idx * 0.3}}
-                >
-                  <div className="text-5xl font-bold text-indigo-600">{stat.number}</div>
-                  <div className="text-gray-300 mt-2">{stat.label}</div>
-                </motion.div>
-            ))}
-          </div>
-        </div>
+<div className="py-20 text-center px-4 sm:px-6 md:px-12">
+  <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold text-white mb-10 font-space">
+    Güçlü Rakamlarla
+  </h2>
+  <div className="flex flex-col sm:flex-row justify-center items-center gap-10 sm:gap-20">
+    {[
+      { number: "1200+", label: "Analiz Üretildi" },
+      { number: "800+", label: "Şirket Kullandı" },
+      { number: "20+", label: "Teknoloji Alanı" },
+    ].map((stat, idx) => (
+      <motion.div
+        key={idx}
+        className="flex flex-col items-center"
+        initial={{ opacity: 0, y: 30 }}
+        whileInView={{ opacity: 1, y: 0 }}
+        viewport={{ once: true }}
+        transition={{ duration: 0.6, delay: idx * 0.3 }}
+      >
+        <div className="text-4xl sm:text-5xl font-bold text-indigo-600">{stat.number}</div>
+        <div className="text-gray-300 mt-2 text-sm sm:text-base">{stat.label}</div>
+      </motion.div>
+    ))}
+  </div>
+</div>
 
-        {/* SSS */}
-        <div className="py-20">
-          <h2 className="text-4xl font-bold text-center text-gray-800 mb-10 font-space">
-            Sık Sorulan Sorular
-          </h2>
+{/* SSS */}
+<div className="py-20 px-4 sm:px-6 md:px-12">
+  <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold text-center text-gray-800 mb-10 font-space">
+    Sık Sorulan Sorular
+  </h2>
 
-          <div className="max-w-4xl mx-auto space-y-6">
-            {faqs.map((faq, index) => (
-                <div key={index} className="border-b pb-4">
-                  <button
-                      onClick={() => toggleFAQ(index)}
-                      className="flex justify-between items-center w-full text-left text-lg font-semibold text-white hover:text-indigo-900 transition-all"
-                  >
-                    {faq.q}
-                    <motion.span
-                        initial={false}
-                        animate={{rotate: openIndex === index ? 45 : 0}}
-                        className="text-white"
-                    >
-                      +
-                    </motion.span>
-                  </button>
+  <div className="max-w-4xl mx-auto space-y-6">
+    {faqs.map((faq, index) => (
+      <div key={index} className="border-b pb-4">
+        <button
+          onClick={() => toggleFAQ(index)}
+          className="flex justify-between items-center w-full text-left text-base sm:text-lg font-semibold text-white hover:text-indigo-300 transition-all"
+        >
+          {faq.q}
+          <motion.span
+            initial={false}
+            animate={{ rotate: openIndex === index ? 45 : 0 }}
+            className="text-white ml-2"
+          >
+            +
+          </motion.span>
+        </button>
 
-                  <AnimatePresence>
-                    {openIndex === index && (
-                        <motion.div
-                            initial={{height: 0, opacity: 0}}
-                            animate={{height: "auto", opacity: 1}}
-                            exit={{height: 0, opacity: 0}}
-                            className="overflow-hidden text-gray-300 mt-2"
-                        >
-                          <p>{faq.a}</p>
-                        </motion.div>
-                    )}
-                  </AnimatePresence>
-                </div>
-            ))}
-          </div>
-        </div>
+        <AnimatePresence>
+          {openIndex === index && (
+            <motion.div
+              initial={{ height: 0, opacity: 0 }}
+              animate={{ height: "auto", opacity: 1 }}
+              exit={{ height: 0, opacity: 0 }}
+              className="overflow-hidden text-gray-300 mt-2 text-sm sm:text-base"
+            >
+              <p>{faq.a}</p>
+            </motion.div>
+          )}
+        </AnimatePresence>
+      </div>
+    ))}
+  </div>
+</div>
+
 
       </section>
  </>

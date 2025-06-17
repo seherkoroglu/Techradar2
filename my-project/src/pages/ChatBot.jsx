@@ -15,9 +15,11 @@ export default function ChatBot() {
     setIsTyping(true);
 
     try {
-      const res = await axios.post(`${import.meta.env.VITE_API_URL}/chat`, { message: input });
+      const res = await axios.post(`${import.meta.env.VITE_API_URL}/chat`, {
+        message: input,
+      });
       setChatLog((prev) => [...prev, { bot: res.data.reply }]);
-    } catch (err) {
+    } catch {
       setChatLog((prev) => [...prev, { bot: "⚠️ Yanıt alınamadı." }]);
     } finally {
       setIsTyping(false);
@@ -29,33 +31,37 @@ export default function ChatBot() {
   }, [chatLog, isTyping]);
 
   return (
-    <div className="flex flex-col h-[500px] w-[350px] bg-white dark:bg-gray-900 rounded-2xl shadow-lg overflow-hidden">
+    <div className="fixed bottom-5 right-5 md:right-10 w-full max-w-md h-[600px] md:h-[650px] bg-white dark:bg-gray-900 border border-gray-200 dark:border-gray-700 rounded-2xl shadow-2xl flex flex-col overflow-hidden z-50">
 
+      {/* Header */}
+      <div className="px-4 py-3 bg-indigo-600 text-white text-xl font-semibold">
+        💬 TechRadar ChatBot
+      </div>
 
-      {/* Chat Alanı */}
-      <div className="flex-1 overflow-y-auto px-3 py-2 space-y-3 text-sm bg-gray-100 dark:bg-gray-800 text-gray-900 dark:text-gray-100">
+      {/* Chat Area */}
+      <div className="flex-1 overflow-y-auto px-4 py-3 space-y-4 bg-gray-100 dark:bg-gray-800 text-gray-900 dark:text-gray-100 text-sm">
         {chatLog.map((entry, idx) => (
           <div key={idx}>
             {entry.user && (
-              <div className="flex justify-end items-end gap-2">
-                <div className="bg-green-500 text-white px-4 py-2 rounded-xl rounded-br-none max-w-[75%]">
+              <div className="flex justify-end gap-2">
+                <div className="bg-green-500 text-white px-4 py-2 rounded-2xl rounded-br-none max-w-[75%]">
                   {entry.user}
                 </div>
                 <img
                   src="https://ui-avatars.com/api/?name=Sen&background=34d399&color=fff&bold=true"
-                  className="w-6 h-6 rounded-full"
+                  className="w-7 h-7 rounded-full"
                   alt="Sen"
                 />
               </div>
             )}
             {entry.bot && (
-              <div className="flex justify-start items-end gap-2">
+              <div className="flex justify-start gap-2">
                 <img
                   src="https://ui-avatars.com/api/?name=Bot&background=60a5fa&color=fff"
-                  className="w-6 h-6 rounded-full"
+                  className="w-7 h-7 rounded-full"
                   alt="Bot"
                 />
-                <div className="bg-white dark:bg-gray-700 px-4 py-2 rounded-xl rounded-bl-none max-w-[75%] shadow-sm">
+                <div className="bg-white dark:bg-gray-700 px-4 py-2 rounded-2xl rounded-bl-none max-w-[75%] shadow">
                   {entry.bot}
                 </div>
               </div>
@@ -73,18 +79,18 @@ export default function ChatBot() {
         <div ref={chatEndRef} />
       </div>
 
-      {/* Giriş Alanı */}
-      <div className="px-3 py-2 bg-white dark:bg-gray-900 border-t border-gray-200 dark:border-gray-700 flex items-center gap-2">
+      {/* Input Area */}
+      <div className="px-4 py-3 bg-white dark:bg-gray-900 border-t border-gray-200 dark:border-gray-700 flex items-center gap-3">
         <input
           value={input}
           onChange={(e) => setInput(e.target.value)}
-          onKeyDown={(e) => e.key === 'Enter' && handleSend()}
+          onKeyDown={(e) => e.key === "Enter" && handleSend()}
           placeholder="Mesajınızı yazın..."
-          className="flex-1 px-4 py-2 rounded-full border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 text-sm focus:outline-none focus:ring-2 focus:ring-blue-400"
+          className="flex-1 px-4 py-2 rounded-full border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 text-sm focus:outline-none focus:ring-2 focus:ring-indigo-400"
         />
         <button
           onClick={handleSend}
-          className="bg-green-500 text-white px-4 py-2 rounded-full hover:bg-green-600 transition text-sm"
+          className="bg-indigo-600 text-white px-5 py-2 rounded-full hover:bg-indigo-700 transition text-sm"
         >
           Gönder
         </button>
