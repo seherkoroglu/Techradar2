@@ -1,8 +1,13 @@
 import feedparser
 from pymongo import MongoClient
 from datetime import datetime
+import os
+from dotenv import load_dotenv
+load_dotenv()  # .env dosyasını yükle
 
-client = MongoClient("mongodb+srv://seherkor2013:vG2JQzQnh8DiMt2m@techradar.eo6czzu.mongodb.net/?retryWrites=true&w=majority")
+MONGO_URI = os.getenv("MONGO_URI")
+client = MongoClient(MONGO_URI)
+
 db = client["techradar"]
 articles = db["articles"]
 
