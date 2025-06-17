@@ -68,7 +68,7 @@ export default function PazarTrendleri() {
           (r) => `${r.label} (${r.count} haber): ${r.status === "safe" ? "güvenli" : "riskli"}`
         );
 
-        const aiRes = await fetch("http://localhost:8000/ai/forecast-advice", {
+        const aiRes = await fetch(`${import.meta.env.VITE_API_URL}/ai/forecast-advice`, {
           method: "POST",
           headers: {
             "Content-Type": "application/json",

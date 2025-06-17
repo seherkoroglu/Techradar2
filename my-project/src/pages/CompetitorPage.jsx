@@ -29,7 +29,7 @@ export default function CompetitorPage() {
     async function fetchCompetitors() {
       try {
         setLoading(true);
-        const res = await fetch(`http://localhost:8000/api/competitors?sector=${encodeURIComponent(sector)}`);
+        const res = await fetch(`${import.meta.env.VITE_API_URL}/api/competitors?sector=${encodeURIComponent(sector)}`);
         const data = await res.json();
         if (data.status === "success") {
           setCompetitors(data.competitors);

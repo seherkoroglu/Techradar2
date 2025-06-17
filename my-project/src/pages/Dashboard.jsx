@@ -135,7 +135,7 @@ useEffect(() => {
 
   const fetchNews = async () => {
     try {
-      const res = await fetch("http://127.0.0.1:8000/ai/ai/trend-news"); // 📰 haberler backend'den geliyor
+      const res = await fetch(`${import.meta.env.VITE_API_URL}/ai/ai/trend-news`); // 📰 haberler backend'den geliyor
       const data = await res.json();
       setNews(data.news || []);
     } catch (error) {
