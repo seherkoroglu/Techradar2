@@ -85,7 +85,7 @@ const steps = [
       <NavbarMain />
 
 
-      <section className="w-full h-full flex flex-col items-center justify-center px-4 md:px-12 lg:px-24">
+<section className="bg-black flex flex-col  relative overflow-hidden">
 
         {/* Dalga Efekti */}
         <div className="absolute top-0 left-0 w-full h-full pointer-events-none opacity-10 z-0">
