@@ -1,15 +1,16 @@
 import { useState, useRef, useEffect } from "react";
 import axios from "axios";
+import { X } from "lucide-react";
 
 export default function ChatBot() {
   const [input, setInput] = useState("");
   const [chatLog, setChatLog] = useState([]);
   const [isTyping, setIsTyping] = useState(false);
+  const [showChat, setShowChat] = useState(true); // 👈 Toggle state
   const chatEndRef = useRef(null);
 
   const handleSend = async () => {
     if (!input.trim()) return;
-
     setChatLog((prev) => [...prev, { user: input }]);
     setInput("");
     setIsTyping(true);
@@ -30,12 +31,17 @@ export default function ChatBot() {
     chatEndRef.current?.scrollIntoView({ behavior: "smooth" });
   }, [chatLog, isTyping]);
 
+  if (!showChat) return null;
+
   return (
-    <div className="fixed bottom-5 right-5 md:right-10 w-full max-w-md h-[600px] md:h-[650px] bg-white dark:bg-gray-900 border border-gray-200 dark:border-gray-700 rounded-2xl shadow-2xl flex flex-col overflow-hidden z-50">
+    <div className="fixed bottom-4 right-4 w-[95%] max-w-md h-[90vh] md:h-[650px] bg-white dark:bg-gray-900 border border-gray-300 dark:border-gray-700 rounded-2xl shadow-2xl flex flex-col z-50">
 
       {/* Header */}
-      <div className="px-4 py-3 bg-indigo-600 text-white text-xl font-semibold">
+      <div className="relative px-4 py-3 bg-indigo-600 text-white text-xl font-semibold flex justify-between items-center">
         💬 TechRadar ChatBot
+        <button onClick={() => setShowChat(false)} className="text-white hover:text-gray-200">
+          <X size={20} />
+        </button>
       </div>
 
       {/* Chat Area */}
@@ -44,7 +50,7 @@ export default function ChatBot() {
           <div key={idx}>
             {entry.user && (
               <div className="flex justify-end gap-2">
-                <div className="bg-green-500 text-white px-4 py-2 rounded-2xl rounded-br-none max-w-[75%]">
+                <div className="bg-green-500 text-white px-4 py-2 rounded-2xl rounded-br-none max-w-[75%] break-words">
                   {entry.user}
                 </div>
                 <img
@@ -61,7 +67,7 @@ export default function ChatBot() {
                   className="w-7 h-7 rounded-full"
                   alt="Bot"
                 />
-                <div className="bg-white dark:bg-gray-700 px-4 py-2 rounded-2xl rounded-bl-none max-w-[75%] shadow">
+                <div className="bg-white dark:bg-gray-700 px-4 py-2 rounded-2xl rounded-bl-none max-w-[75%] shadow break-words">
                   {entry.bot}
                 </div>
               </div>
@@ -80,7 +86,7 @@ export default function ChatBot() {
       </div>
 
       {/* Input Area */}
-      <div className="px-4 py-3 bg-white dark:bg-gray-900 border-t border-gray-200 dark:border-gray-700 flex items-center gap-3">
+      <div className="px-3 py-3 bg-white dark:bg-gray-900 border-t border-gray-200 dark:border-gray-700 flex items-center gap-2">
         <input
           value={input}
           onChange={(e) => setInput(e.target.value)}
@@ -90,7 +96,7 @@ export default function ChatBot() {
         />
         <button
           onClick={handleSend}
-          className="bg-indigo-600 text-white px-5 py-2 rounded-full hover:bg-indigo-700 transition text-sm"
+          className="bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 transition text-sm"
         >
           Gönder
         </button>
