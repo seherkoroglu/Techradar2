@@ -117,33 +117,35 @@ const steps = [
 
   {/* Metin ve butonlar */}
   <div className="z-20 text-center text-white px-6 py-24">
-    <h1 className="text-8xl font-bold mb-6 font-space animate__animated animate__rotateInUpLeft">
+    <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl xl:text-8xl font-bold mb-6 font-space animate__animated animate__rotateInUpLeft">
       Şirketini Geleceğe Taşı
     </h1>
+
     <p className="text-xl text-gray-300 max-w-2xl mx-auto mb-8">
       Yapay zeka, veri analitiği ve sektör trendleriyle desteklenen bir büyüme platformuna adım at.
     </p>
     <Link to="/login">
-      <button className="bg-indigo-600 hover:bg-purple-400 text-white text-2xl font-semibold py-3 px-8 rounded-xl shadow-lg transition duration-300">
+      <button
+          className="bg-indigo-600 hover:bg-purple-400 text-white text-2xl font-semibold py-3 px-8 rounded-xl shadow-lg transition duration-300">
         Hemen Başla
       </button>
     </Link>
 
     <motion.div
-      className="mt-16"
-      animate={{ y: [0, 10, 0] }}
-      transition={{ repeat: Infinity, duration: 2 }}
+        className="mt-16"
+        animate={{y: [0, 10, 0]}}
+        transition={{repeat: Infinity, duration: 2}}
     >
-      <FaArrowDown size={30} className="text-white mx-auto" />
+      <FaArrowDown size={30} className="text-white mx-auto"/>
     </motion.div>
   </div>
 </div>
 
 
-        {/* Neler Sunuyoruz */}
-        <div className="text-center my-20 relative z-10">
-          <motion.h2
-              className="text-4xl font-bold text-white mb-4 font-space"
+  {/* Neler Sunuyoruz */}
+  <div className="text-center my-20 relative z-10">
+    <motion.h2
+        className="text-4xl font-bold text-white mb-4 font-space"
               initial={{opacity: 0}}
               whileInView={{opacity: 1}}
               viewport={{once: true}}
