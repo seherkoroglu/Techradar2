@@ -95,7 +95,7 @@ useEffect(() => {
 
   const fetchCategorySuggestions = async (category) => {
     try {
-      const res = await fetch(`http://localhost:8000/ai/suggestions`, {
+      const res = await fetch(`${import.meta.env.VITE_API_URL}/ai/suggestions`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
